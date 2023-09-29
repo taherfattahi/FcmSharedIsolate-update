@@ -1,4 +1,4 @@
-# Add this package locally to your project
+# Add this package locally to your flutter project
 In this file `pubspec.yaml`
 ```
   fcm_shared_isolate:
