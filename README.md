@@ -4,6 +4,8 @@ In this file `pubspec.yaml`
   fcm_shared_isolate:
     path: ./packages/FcmSharedIsolate-update-master/
 ```
+Base Of the Project URL:
+<a href="https://gitlab.com/famedly/company/frontend/libraries/fcm_shared_isolate">FCM Shared Isolate</a>
 
 # fcm_shared_isolate
 
