@@ -1,4 +1,9 @@
 # Add this package locally to your project
+In this file `pubspec.yaml`
+```
+  fcm_shared_isolate:
+    path: ./packages/FcmSharedIsolate-update-master/
+```
 
 # fcm_shared_isolate
 
